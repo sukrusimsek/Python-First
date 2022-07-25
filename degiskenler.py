@@ -1,5 +1,5 @@
 sayi = 10 #integer yani rakamsal
-tcno = "39021454868" #string yani metinsel
+tcno = "45021454868" #string yani metinsel
 isim = "sukru"
 soyIsim = "simsek"
 telefonNumarasi = "5336945423"
