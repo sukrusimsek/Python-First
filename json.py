@@ -2,7 +2,7 @@
 
 import json
 
-data = '{"firstName":"Şükrü","lastName":"Şimşek","phoneNumber":"05336976623"}'
+data = '{"firstName":"Şükrü","lastName":"Şimşek","phoneNumber":"05896587412"}'
 
 y = json.loads(data)  #üstteki satır string yani metin iken onu json tipine çevirmeye yarar loads komutu
 
@@ -14,7 +14,7 @@ customer = {
     "firstName" : "Şükrü", #şurada , unuttuk çalışmadı unutma , 
     "email" : "sukrusimsekll@gmail.com",
     "birth" : "11.05.1999",
-    "phoneNumber":"05336976623"
+    "phoneNumber":"05896587412"
     }
 customerJson = json.dumps(customer) #python nesnesini json a çevirdiğimiz için dumps yaptık.
 print(customer)
